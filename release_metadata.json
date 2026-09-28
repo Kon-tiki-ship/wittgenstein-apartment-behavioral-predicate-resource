@@ -1,0 +1,29 @@
+{
+  "title": "Wittgenstein Apartment Behavioral Predicate Resource",
+  "version": "1.0",
+  "release_date": "2026-09-28",
+  "author": "Furkan Yaşar",
+  "homepage": "https://www.furkanyasar.me",
+  "license": "WA-ADRL-1.0",
+  "resource_type": "sense-level behavioral predicate resource",
+  "statistics": {
+    "active_action_senses": 2904,
+    "character_specific": 2469,
+    "basic_human": 435,
+    "behavioral_predicate_families": 541,
+    "wordnet_background_records": 2890,
+    "goal_relation_rows": 4193,
+    "functional_projection_rows": 1392,
+    "unique_projected_action_senses": 1361,
+    "functional_projection_views": 8
+  },
+  "doi": "10.5281/zenodo.23015862",
+  "doi_url": "https://doi.org/10.5281/zenodo.23015862",
+  "zenodo_record": "https://zenodo.org/records/23015862",
+  "github_url": "https://github.com/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource",
+  "huggingface_url": "https://huggingface.co/datasets/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource",
+  "license_name": "Wittgenstein Apartment Academic & Derivative Research License v1.0",
+  "ai_training": "requires_prior_written_permission",
+  "commercial_use": "requires_prior_written_permission",
+  "academic_derivatives": "permitted_with_attribution_and_citation"
+}

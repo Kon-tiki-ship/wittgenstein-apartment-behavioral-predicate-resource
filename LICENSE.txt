@@ -1,0 +1,131 @@
+Wittgenstein Apartment Academic & Derivative Research License v1.0
+(WA-ADRL-1.0)
+
+Copyright © 2026 Furkan Yaşar. All rights reserved except for the permissions expressly granted below.
+
+1. Purpose
+
+This license is intended to support broad academic examination, scholarly reuse, modification, extension, and publication of derivative research resources while reserving artificial-intelligence training rights and commercial exploitation rights to the rights holder.
+
+2. Definitions
+
+“Resource” means the Wittgenstein Apartment Behavioral Predicate Resource and Functional Projections, including the distributed XLSX, JSON, JSONL, schemas, structured records, mappings, classifications, projections, and accompanying data documentation to the extent that rights are controlled by Furkan Yaşar.
+
+“Derivative Research Resource” means a non-commercial dataset, ontology, knowledge graph, mapping, annotation layer, classification, extension, translation, transformation, benchmark, research corpus, or other scholarly resource that is based on or materially incorporates the Resource.
+
+“AI Training” means use of the Resource or a Derivative Research Resource to train, fine-tune, distill, adapt, optimize, or otherwise modify the parameters or learned representations of a machine-learning, neural, generative-AI, foundation-model, or similar computational model. Ordinary scholarly analysis, querying, statistical evaluation, or use of an AI system to assist research does not by itself constitute AI Training unless the Resource is used to modify a model through training or equivalent parameter-updating processes.
+
+“Commercial Use” means use primarily intended for commercial advantage, monetary compensation, paid products or services, commercial software, commercial game development, paid consulting deliverables, or deployment within a revenue-generating product or service.
+
+3. Academic and Research Permissions
+
+Subject to the conditions below, any person may, without requesting prior permission:
+
+(a) access, download, inspect, study, analyze, and evaluate the Resource;
+
+(b) reproduce the Resource as reasonably necessary for non-commercial academic, educational, or research purposes;
+
+(c) transform, annotate, normalize, map, translate, reorganize, enrich, extend, or otherwise modify the Resource for non-commercial scholarly purposes;
+
+(d) create and publicly distribute Derivative Research Resources;
+
+(e) use the Resource in academic theses, dissertations, articles, conference papers, technical reports, teaching materials, and scholarly presentations;
+
+(f) publish aggregate statistics, methodological analyses, evaluations, visualizations, examples, and research findings derived from the Resource;
+
+(g) combine the Resource with other non-commercial research datasets, ontologies, lexical resources, or knowledge-representation systems.
+
+4. Attribution and Citation Requirements
+
+Any public scholarly use or Derivative Research Resource must:
+
+(a) clearly credit Furkan Yaşar as the creator of the Wittgenstein Apartment resource;
+
+(b) cite the official Zenodo DOI for the specific version used;
+
+(c) identify the Resource by title and version where reasonably practicable;
+
+(d) clearly indicate whether the original Resource has been modified, extended, translated, mapped, or otherwise transformed;
+
+(e) preserve the copyright and license notice in redistributed copies of the original Resource and in substantial Derivative Research Resources.
+
+5. Derivative Research Resources
+
+Derivative Research Resources may be publicly shared and published without prior permission provided that:
+
+(a) the use is non-commercial;
+
+(b) attribution and citation requirements are satisfied;
+
+(c) the derivative is clearly identified as an independent derivative work and not as an official Wittgenstein Apartment release;
+
+(d) the derivative does not imply endorsement by Furkan Yaşar;
+
+(e) the derivative carries this license, or another license whose terms preserve at minimum the restrictions on AI Training and Commercial Use stated in Sections 6 and 7.
+
+Academic papers, theses, reports, presentations, and other scholarly prose outputs are not required to use this license and may be published under the publisher's or author's normal publication terms.
+
+6. AI Training Requires Permission
+
+No license is granted for AI Training.
+
+Use of the Resource or a Derivative Research Resource for AI Training requires prior written permission from Furkan Yaşar, whether the proposed training activity is commercial or non-commercial.
+
+This restriction includes, without limitation, training, fine-tuning, supervised fine-tuning, reinforcement learning, distillation, parameter adaptation, representation learning, embedding-model training, and other processes that modify a model on the basis of the Resource.
+
+This clause does not restrict ordinary non-training scholarly analysis, search, querying, retrieval, evaluation, or human-directed research use of already-trained systems, except where such activity otherwise constitutes Commercial Use.
+
+7. Commercial Use Requires Permission
+
+No license is granted for Commercial Use.
+
+Commercial Use of the Resource or a Derivative Research Resource requires prior written permission from Furkan Yaşar.
+
+Examples include:
+
+- incorporation into a commercial game, simulation, agent system, application, product, or service;
+- use as part of a paid API, commercial database, commercial knowledge base, or commercial software package;
+- use in commercial consulting deliverables;
+- monetized redistribution or sublicensing;
+- use intended primarily to create or improve a commercial product.
+
+8. Redistribution of the Original Resource
+
+Redistribution of unmodified copies of the Resource is permitted for non-commercial academic and research purposes provided that:
+
+(a) the full copyright and license notice is retained;
+(b) the official Zenodo DOI is included;
+(c) the copy is not presented as a newer or official release;
+(d) no fee is charged beyond reasonable cost recovery.
+
+Where practical, users are encouraged to link to the canonical Zenodo record rather than create independent mirrors.
+
+9. No Trademark, Endorsement, or Official-Version Rights
+
+This license does not grant rights to represent a derivative as an official Wittgenstein Apartment release, to imply endorsement, or to use project branding in a misleading manner.
+
+10. Third-Party Material
+
+Third-party resources, identifiers, mappings, lexical references, or other externally sourced material remain subject to their respective rights, licenses, and legal conditions. This license grants only rights controlled by Furkan Yaşar.
+
+11. Statutory Rights and Exceptions
+
+Nothing in this license is intended to restrict uses that are permitted independently by applicable law and do not require authorization from the rights holder, including applicable statutory exceptions and limitations. Where permission from the rights holder is legally required, the terms of this license apply.
+
+12. No Warranty
+
+The Resource is provided “as is,” without warranties of any kind, to the maximum extent permitted by applicable law.
+
+13. Separate Permissions
+
+AI Training, Commercial Use, or any other use not granted by this license may be authorized through a separate written agreement.
+
+Permission and commercial licensing enquiries:
+
+Furkan Yaşar
+Independent Researcher
+Website: https://www.furkanyasar.me
+Email: furkanyasar1924@gmail.com
+
+Version: 1.0
+License identifier: WA-ADRL-1.0
