@@ -4,9 +4,11 @@
 **Author:** Furkan Yaşar  
 **Resource type:** Sense-level behavioral predicate resource  
 **License:** Wittgenstein Apartment Academic & Derivative Research License v1.0 (WA-ADRL-1.0)  
-**Canonical archive / DOI:** https://doi.org/10.5281/zenodo.23015862  
-**Hugging Face:** https://huggingface.co/datasets/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource  
-**Homepage:** https://www.furkanyasar.me
+**Zenodo archive:** [Zenodo Record 23015862](https://zenodo.org/records/23015862)  
+**DOI:** `10.5281/zenodo.23015862`  
+**GitHub:** [wittgenstein-apartment-behavioral-predicate-resource](https://github.com/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource)  
+**Hugging Face:** [Wittgenstein Apartment Dataset](https://huggingface.co/datasets/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource)  
+**Project website:** [furkanyasar.me](https://www.furkanyasar.me)
 
 Wittgenstein Apartment (WA) is a sense-level behavioral predicate resource designed to bridge lexical-semantic representations of human action with character-relative action repertoires and downstream narrative, simulation, and planning systems.
 
@@ -22,15 +24,16 @@ WA separates three representational questions:
 
 ## Canonical Release
 
-The archival, citable v1.0 release is deposited on Zenodo:
+The canonical archival v1.0 release is available on Zenodo:
 
-**DOI:** [10.5281/zenodo.23015862](https://doi.org/10.5281/zenodo.23015862)
+**[Zenodo Record 23015862](https://zenodo.org/records/23015862)**
 
-This GitHub repository is a public research mirror and project-facing repository for the same v1.0 resource family.
+DOI: `10.5281/zenodo.23015862`
 
-Hugging Face dataset mirror:
+Public mirrors:
 
-https://huggingface.co/datasets/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource
+- [GitHub Repository](https://github.com/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource)
+- [Hugging Face Dataset](https://huggingface.co/datasets/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource)
 
 ---
 
@@ -262,7 +265,7 @@ The dataset DOI above is the canonical citation for the v1.0 data release. A sep
 
 Please cite the canonical Zenodo release:
 
-> Yaşar, F. (2026). *Wittgenstein Apartment Behavioral Predicate Resource v1.0* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23015862
+> Yaşar, F. (2026). *Wittgenstein Apartment Behavioral Predicate Resource v1.0* (Version 1.0) [Data set]. Zenodo. https://zenodo.org/records/23015862
 
 Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 

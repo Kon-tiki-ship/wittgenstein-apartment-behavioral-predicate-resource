@@ -1,38 +1,11 @@
 cff-version: 1.2.0
-message: "If you use Wittgenstein Apartment in research, please cite the archived v1.0 dataset release."
+message: "If you use this dataset in research, please cite the archived v1.0 release."
 title: "Wittgenstein Apartment Behavioral Predicate Resource"
 type: dataset
-version: "1.0"
-date-released: "2026-09-28"
-doi: "10.5281/zenodo.23015862"
 authors:
   - family-names: "Yaşar"
     given-names: "Furkan"
-    email: "furkanyasar1924@gmail.com"
-    website: "https://www.furkanyasar.me"
-abstract: >-
-  Wittgenstein Apartment (WA) is a sense-level behavioral predicate resource
-  designed to bridge lexical-semantic representations of human action with
-  character-relative action repertoires and downstream narrative, simulation,
-  and planning systems. Release v1.0 contains 2,904 active Action Senses,
-  541 Behavioral Predicate Families, 4,193 Goal Ontology relation rows, and
-  eight Functional Projection views containing 1,392 projection rows.
-keywords:
-  - behavioral predicates
-  - lexical semantics
-  - computational semantics
-  - knowledge representation
-  - computational narrative
-  - character modeling
-  - action representation
-  - digital humanities
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.23015862"
-    description: "Archived v1.0 dataset release on Zenodo."
-  - type: url
-    value: "https://huggingface.co/datasets/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource"
-    description: "Hugging Face dataset mirror."
-repository: "https://zenodo.org/records/23015862"
-repository-code: "https://github.com/Kon-tiki-ship/wittgenstein-apartment-behavioral-predicate-resource"
-url: "https://www.furkanyasar.me"
+version: "1.0"
+date-released: "2026-09-28"
+doi: "10.5281/zenodo.23015862"
+url: "https://zenodo.org/records/23015862"
