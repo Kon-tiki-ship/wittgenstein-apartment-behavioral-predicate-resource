@@ -135,8 +135,7 @@ Functional Projection does not redefine Action Sense identity. The semantic fiel
 │   ├── Figure_3_Executable_Action_Space.png
 │   └── Figure_4_Goal_Relations_and_Projection.png
 ├── paper/
-│   ├── Wittgenstein_Apartment_Article_EN_Submission_Master_v1.0.pdf
-│   └── Wittgenstein_Apartment_Article_EN_Submission_Master_v1.0.docx
+│   └── Wittgenstein_Apartment_Article_EN_Submission_Master_v1.0.pdf
 ├── CITATION.cff
 ├── LICENSE.txt
 ├── checksums.sha256
@@ -255,7 +254,6 @@ Author manuscript, 2026.
 Repository copies:
 
 - `paper/Wittgenstein_Apartment_Article_EN_Submission_Master_v1.0.pdf`
-- `paper/Wittgenstein_Apartment_Article_EN_Submission_Master_v1.0.docx`
 
 The dataset DOI above is the canonical citation for the v1.0 data release. A separate publication DOI may be added if the manuscript is later deposited as a preprint or published by a journal.
 
